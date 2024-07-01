@@ -1,0 +1,5 @@
+node_modules
+ui-debug.log
+.firebase
+firebase-debug.log
+package-lock.json
